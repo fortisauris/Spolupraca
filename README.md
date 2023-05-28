@@ -14,3 +14,4 @@ zeby?
 4. Security - Tomas, 
 5. Micropython - Peter K, 
 
+Toto som doplnil
