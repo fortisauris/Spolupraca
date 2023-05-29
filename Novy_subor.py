@@ -1,0 +1,1 @@
+print ("Novy subor v projekte")
