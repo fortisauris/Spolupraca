@@ -29,10 +29,9 @@ Nazdar chlapci a dievcata
 =======
 zeby? 
 
-1. WebApp - Vlado, Anton, 
-2. Data Analytika - Eniko, 
-3. Nevieme - Veronika, Erik, Lenka, Peter G.
+1. WebApp - Vlado, Anton, Lenka, Timo
+2. Data Analytika - Eniko, Veronika, Erik
 4. Security - Tomas, 
-5. Micropython - Peter K, 
+5. Micropython - Peter K, Peter G.  - Raspberry Pico W 
 
 Toto som doplnil
