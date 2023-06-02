@@ -35,3 +35,18 @@ zeby?
 5. Micropython - Peter K, Peter G.  - Raspberry Pico W 
 
 Toto som doplnil
+
+## POUZITIE APPKY
+### WEBAPPKA ALEBO API
+1. registracia sliepky a vybranie lokality a terminu FORM alebo json v POST requeste
+2. Vygenerovanie hex tokenu alebo QR kodu
+
+### MICROPYTHON
+Ak sliepka pride na miesto ku kurniku
+3. pomocou chickenphonu sa prihlasi sa na lokalnu wifi
+4. pomocou posle request s hex tokenom
+5. Kurin sa otvori
+
+### SECURITY
+1. token nesmie cestovat cez http bez zabezpecenia
+2. PLATNE TOKENY SA MUSIA BEZPECNE NAHRAVAT NA RASPBERRY
