@@ -49,4 +49,4 @@ Ak sliepka pride na miesto ku kurniku
 
 ### SECURITY
 1. token nesmie cestovat cez http bez zabezpecenia
-2. PLATNE TOKENY SA MUSIA BEZPECNE NAHRAVAT NA RASPBERRY
+2. PLATNE TOKENY SA MUSIA BEZPECNE NAHRAVAT NA RASPBERRY"# Spolupraca" 
